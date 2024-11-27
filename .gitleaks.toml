@@ -1,0 +1,5 @@
+[[rules]]
+  description = "GitHub Token"
+  regex = '''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'''
+  tags = ["github", "token"]
+  severity = "high"
